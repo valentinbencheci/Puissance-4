@@ -11,7 +11,7 @@ abstrait
 • Retourner le plateau.
 ```
 
-**Il existe 3 mode de jeu : **
+**Il existe 3 mode de jeu :**
 ```
 • Player VS Player;
 • Player VS AI;
@@ -20,5 +20,13 @@ abstrait
 Pour l'implementation d'AI il est utilisé l'algorithme MinMax.
 ```
 
-
+**L'organisation des menus :**
+```
+• mainMenu;
+• gameTypeMenu;
+• gameMoveMenu.
+```
+![mainMenu](/img/mainMenu.png)
+![mainMenu](/img/gameTypeMenu.png)
+![mainMenu](/img/gameMoveMenu.png)
 
