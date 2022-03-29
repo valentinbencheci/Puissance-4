@@ -30,3 +30,13 @@ Pour l'implementation d'AI il est utilisé l'algorithme MinMax.
 ![mainMenu](/img/gameTypeMenu.png)
 ![mainMenu](/img/gameMoveMenu.png)
 
+**Les codes d'erreurs :**
+
+| Code  | Erreur                               |
+| ----- |:------------------------------------:|
+| 101   | mauvaise nickname_1                  |
+| 102   | mauvaise nickname_2                  |
+| 103   | mauvaise couleur_1                   |
+| 301   | le jeton n'a pas été place           |
+| 401   | il n'y a pas de parties sauvegardées |
+| 501   | il n'y a pas de statistique          |
